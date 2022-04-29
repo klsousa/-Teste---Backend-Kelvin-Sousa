@@ -1,0 +1,11 @@
+Explicação sobre como eu coloquei no localhost 
+
+Entao eu coloquei o arquivo diretamente no disco local c
+
+Abri o cmd e entrei no arquivo ci4 e coloquei o seguinte codigo php spark serve para que ele abre-se o localhost
+
+Estou enviando tambem meu banco de dados com os nomes dos clientes ou tambem pode ser cadastrados outros clientes.
+
+OBS.: Desculpa pela demora estava deixando o codigo o mais limpo possivel estou aprendendo agora a desenvolver com o framework Codeigniter.
+
+Obrigado pela atenção 
